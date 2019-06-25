@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tetris.Properties
+namespace TetrisWPF.Properties
 {
 
 

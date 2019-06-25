@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Programming\Projects\Tetris\Tetris\obj\Debug\
+D:\Programming\Projects\TetrisWPF\Tetris\obj\Debug\
 Tetris
 none
 false
 DEBUG;TRACE
-D:\Programming\Projects\Tetris\Tetris\App.xaml
+D:\Programming\Projects\TetrisWPF\Tetris\App.xaml
 11151548125
 
 6-1738962361
 13-1505183044
 MainWindow.xaml;
 
-False
+True
 
